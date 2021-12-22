@@ -10,7 +10,6 @@ CTD.outbreaker2.Rproj
 *.o
 *.so
 *.dll
-vignettes/*html
 vignettes/*cache*
 docs/articles/*cache*
 doc
